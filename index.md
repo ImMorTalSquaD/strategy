@@ -2,54 +2,7 @@
 
      <TITLE>ImMorTalSquaD War Squad - Star Wars Commander</TITLE>     
 <META http-equiv="Content-Type" content="text/html; charset=utf-8">
-<STYLE>
 
-      * {
-        box-sizing: border-box;
-      }
-
-      html {
-        font-size: 62.5%;
-      }
-
-
-      body {
-        background: #666;
-        font-family: monospace;
-        font-size: 10px;
-        margin: 0;
-        padding: 0;
-      }
-      .container {
-        background: #EEE;
-        border: solid 1px #333;
-        border-width: 0 4px;
-        font-size: 16px;
-        line-height: 24px;
-        margin: 0 auto;
-        max-width: 960px;
-        padding: 20px;
-      }
-
-      h1 {
-        display: inline-block;
-        font-size: 48px;
-      }
-
-      h1, h2, h3 {
-        margin-top: 30px;
-        margin-bottom: 0;
-      }
-
-      li {
-        margin-bottom: 15px;
-      }
-
-      hr {
-        margin: 30px 10px;
-      }
-
-    </STYLE>
    
 <META name="GENERATOR" content="MSHTML 11.00.9600.18894"></HEAD>   
 <BODY>
