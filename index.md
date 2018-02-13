@@ -1,6 +1,6 @@
 
 
-     <TITLE>ImMorTalSquaD War Squad - Star Wars Commander</TITLE>     
+   
 <META http-equiv="Content-Type" content="text/html; charset=utf-8">
 
    
