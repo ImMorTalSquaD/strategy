@@ -1,7 +1,6 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<!-- saved from url=(0031)https://snokesblokes.github.io/ -->
-<HTML><HEAD><META content="IE=5.0000" http-equiv="X-UA-Compatible">
-     <TITLE>SnokesBlokes War Squad - Star Wars Commander</TITLE>     
+
+
+     <TITLE>ImMorTalSquaD War Squad - Star Wars Commander</TITLE>     
 <META http-equiv="Content-Type" content="text/html; charset=utf-8">
 <STYLE>
 
@@ -54,11 +53,11 @@
    
 <META name="GENERATOR" content="MSHTML 11.00.9600.18894"></HEAD>   
 <BODY>
-<DIV class="container"><HEADER><IMG width="48" height="48" src="SnokesBlokes%20War%20Squad%20-%20Star%20Wars%20Commander_files/empire-emblem.svg"> 
+
         
-<H1>SnokesBlokes</H1></HEADER>
+<H1>ImMorTalSquaD</H1></HEADER>
 <P>        Hi! You're probably here because you're a part of the 
-<STRONG>SnokesBlokes</STRONG> squad on Star Wars Commander. Welcome to the team! 
+<STRONG>ImMorTalSquaD</STRONG> squad on Star Wars Commander. Welcome to the team! 
       </P>
 <H2>Team Strategy and Policy</H2>
 <P>        We are a war squad. We're good at it because we adhere to a 
